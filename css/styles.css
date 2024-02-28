@@ -25,10 +25,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
-.header-list{
-    width: 261px;
-    height: 24px;
-}
+
 .header-list-item{
 font-weight: 500;
 font-size: 16px;
@@ -42,12 +39,132 @@ color: #2e2f42;}
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
+    font-style: normal;
 }
-.mail{
-    width: 153px;
-    height: 24px;
+
+
+.backgroud-one{
+    background-color: #2e2f42;;
 }
-.tel{
-    width: 151px;
-    height: 24px;
+.title{
+font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: white;
+}
+
+
+.button{
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+color: white;
+background-color: #4d5ae5;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+
+.section-two-titles{
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color:#2e2f42;
+}
+
+.section-two-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.our-team-section{
+    background-color: #f4f4fd;;
+}
+
+.our-title{
+font-weight: 700;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.our-team-name{
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.our-team-work{
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.porfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.portfolio-items {
+    font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.portfolio-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.footer{
+    background-color: #2e2f42;
+}
+
+.footer-logo{
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+color: #f4f4fd;
+}
+.footer-logo-part{
+   color:  #4d5ae5;
+}
+
+.footer-text{
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #f4f4fd;
 }
