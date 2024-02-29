@@ -42,6 +42,10 @@ color: #2e2f42;}
     font-style: normal;
 }
 
+.adress-item:hover,
+.adress-item:focus {
+    color: #4d5ae5;
+}
 
 .backgroud-one{
     background-color: #2e2f42;;
@@ -63,6 +67,12 @@ line-height: 150%;
 letter-spacing: 0.04em;
 color: white;
 background-color: #4d5ae5;
+cursor: pointer;
+}
+
+.button:hover,
+.button:focus{
+    background-color: #9abaf7;
 }
 
 .visually-hidden {
@@ -88,7 +98,6 @@ color:#2e2f42;
 }
 
 .section-two-text{
-    font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
@@ -116,7 +125,6 @@ color: #2e2f42;
 }
 
 .our-team-work{
-font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
@@ -140,7 +148,6 @@ color: #2e2f42;
 }
 
 .portfolio-text {
-font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
@@ -163,7 +170,6 @@ color: #f4f4fd;
 }
 
 .footer-text{
-font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 color: #f4f4fd;
